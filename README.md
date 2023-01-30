@@ -45,7 +45,6 @@ If there are no collectibles left, the exit will open and the player can now pas
 
 Enemies spawn on collectables and patrol in horizontal or vertical lines depending on their instance number being odd or even. Whenever the player touches an enemie a heart is lost. When all three hearts are lost the player looses the game and an end screen is displayed.
 
-
 ### Animations
 Both the enemies and the player have three textures per walking direction that are alternated as they move (bonus). This is done using an image counter to draw different textures to the images instances.
 
@@ -61,8 +60,8 @@ The small game has a few extras that were not part of the assignment but that I 
 -Added maps as levels that you progress through.
 
 ## Gameplay
+This is what the game looks like
 
-Here are a few sample gameplays clips:
 ![test](https://github.com/winglessOracle/so_long/blob/main/example.gif)
 
 ## Installing the MLX library and required recourses
