@@ -1,0 +1,162 @@
+!XPM42
+50 50 110 2 c
+   #00000000
+.  #3E303EFF
+X  #4C333BFF
+o  #553A3DFF
+O  #403441FF
++  #473943FF
+@  #483943FF
+#  #453E4AFF
+$  #483F4BFF
+%  #44414EFF
+&  #48404BFF
+*  #574044FF
+=  #5D4142FF
+-  #5A4549FF
+;  #474451FF
+:  #4A4552FF
+>  #53505DFF
+,  #614443FF
+<  #674947FF
+1  #684A46FF
+2  #6C4E49FF
+3  #73544CFF
+4  #78574EFF
+5  #74594CFF
+6  #79584FFF
+7  #6C5353FF
+8  #6D5856FF
+9  #6E5B5BFF
+0  #715B56FF
+q  #7E5E51FF
+w  #7E6153FF
+e  #77625AFF
+r  #7A655BFF
+t  #7C685CFF
+y  #535463FF
+u  #5B5560FF
+i  #5D5B67FF
+p  #5B5C6AFF
+a  #615C64FF
+s  #64606AFF
+d  #706361FF
+f  #786B66FF
+g  #7A6D6AFF
+h  #666A77FF
+j  #6D6972FF
+k  #6A6F7AFF
+l  #6E737EFF
+z  #74757DFF
+x  #836453FF
+c  #876A56FF
+v  #8A6C57FF
+b  #836C5CFF
+n  #8B6F58FF
+m  #8E725AFF
+M  #937556FF
+N  #92765BFF
+B  #94785CFF
+V  #867066FF
+C  #8F7865FF
+Z  #8A766CFF
+A  #947A62FF
+S  #907A6BFF
+D  #857B7DFF
+F  #8B7E7DFF
+G  #9A826CFF
+H  #948272FF
+J  #938479FF
+K  #6F7480FF
+L  #737A85FF
+P  #767D88FF
+I  #7A7F89FF
+U  #887E80FF
+Y  #7B828EFF
+T  #8C8384FF
+R  #8A888BFF
+E  #918783FF
+W  #958C87FF
+Q  #958D88FF
+!  #838791FF
+~  #868D97FF
+^  #928F93FF
+/  #8B939EFF
+(  #979494FF
+)  #9A9593FF
+_  #92979EFF
+`  #95999EFF
+'  #A59384FF
+]  #A2958EFF
+[  #A9998BFF
+{  #A29892FF
+}  #8C95A0FF
+|  #8E98A2FF
+ . #9097A0FF
+.. #979BA1FF
+X. #9B9DA3FF
+o. #A3A2A5FF
+O. #A7AAAFFF
++. #B6ACA3FF
+@. #B9B2ADFF
+#. #A7ABB0FF
+$. #ADB0B3FF
+%. #B0B2B5FF
+&. #BBB7B5FF
+*. #BFB9B4FF
+=. #B5B8BCFF
+-. #BABABCFF
+;. #C0BBB6FF
+:. #B5BBC1FF
+>. #C1C2C3FF
+,. #CCCCCBFF
+        y > y > > > y > y y y y y y y y y > > y > y y y > y > > > y y y y > y > y > y y y y         
+      h l K K K z z K K K K K K k K K k K l K K K K K K K K K K l l l l K K l l K K K k K l h       
+    y L } } } / / / / / ~ } } } / } / / / / / / } } } / } } Y | / / / / / / / / } } } ~ } / P y     
+    y I | ~ L K L L L L L L K L L L L K L L L P K L L L L L L L L L L L L L L L L L L L ~ | P y     
+    y P } l % # @ $ $ $ # # # $ # # $ $ $ $ $ $ $ $ & & % & & # # # # & # # # # # % & : z / P y     
+    y P / h . X , , , , o X o , , = , , , , , , , , , = - = , = X X = , = o X o = , @ : K / Y y     
+    y Y / k + 1 3 4 4 3 < = 2 4 q 4 4 3 4 4 4 4 4 4 4 4 4 4 6 3 , < 3 6 4 < = 2 6 4 7 u P / I y     
+    y L / l @ 1 x 4 4 x 2 @ 2 3 4 q 3 4 q 3 4 4 6 6 6 4 6 6 6 4 3 3 4 6 6 1 = 2 6 6 7 u L / P y     
+    y Y / k + < 5 6 6 x 3 < 3 x x x x x x x x x x x x x x x x x x x q x q 3 < 3 w x e > L } L p     
+    y Y / k + < 6 6 x n x 4 c m m m n m n m n m m n m m n m n n m N m N m w 6 c m M b a L } L y     
+    y P / k @ 1 6 6 x N c x v B B B B B B B B B B B B B B B B B B B B B N c 6 v B B b a L } Y y     
+    > Y / k @ 1 6 6 x N c w v B B B B B B B B B B B B B B B B B B B B B B c x n B B t i L } L y     
+    y Y / h @ 1 6 6 c N c 6 v B B B B B B B B B B B B B B B B B B B B N B m v m B B b a L } L y     
+    y P / k @ 1 6 6 x m v x v B B B m N B B B B B B B B B B B B B B B B B N B N B B t 9 L / L p     
+    y Y / k X 1 6 6 c M N n N B B m c v N B B B B B B B B B B B B B B B B B B B B B b a L } Y y     
+    y Y / k @ 1 6 6 x N N B B B B v x c N B B B B B B B B B B B B B B B B B B B B N b a L } L y     
+    y L / k X 1 6 6 x N B B B B B n x x N B B B B B B B B B B B B B B B B B B B B B b a L / L p     
+    y Y / k # 1 6 6 x N B B B B B v x x N B B B B B B B B B B B B B N B B B B B B B t 9 L / P y     
+    y Y / k & 1 6 6 x B B B B B A n x x N B B B B B B B B B B B B B B N B B B B B B b a L / Y y     
+    y L / k X 1 6 6 x B B B B B B m c v N B B B B B B B N B B B B N n m N B B B B B b a L / Y y     
+    y Y / k X 1 6 6 c N B B B B B B B N B A A B N B B A B B B B B m x c N B B B B B b a L / P y     
+    y Y / k & 1 6 6 x N B B B B B B A B B J E Z x x Z E J A B B N m 6 c N B B B B B t i L / Y y     
+    y Y / k @ 1 6 6 x N B B B B B B B A S ) o.F x q F X.) C N B B m w x N B B B B B b 9 L } P y     
+    y L / k @ 1 6 6 x N B B B B B N B S ) %.:.] n v ] -.o.g c B B m w x N B B B B B b a L / P y     
+    y Y / k X 1 4 3 w M B B B B B A S ) $.;.;.[ B B [ *.o.z f m N m x c N B B B B N c a L } L p     
+    y P ~ l # 1 3 < 6 m B B B B B J ( $.>.@.[ A B B G ' ) ~ K d v B N N N B B B B B b a L } P y     
+    y Y / l @ 1 2 , 3 m B B B B B J ..:.,.+.A M B B M B W _ L a b B B B B B B B B B b a L } Y y     
+    y Y / k @ 1 3 = 5 m B B B B B J ` =.,.@.S A A A B A W / L a b B B B B B B B B B t i L } P y     
+    y l / k X < 3 = 3 n B B B B B S T o.=.&.+.] W W Q Q R I j 9 b B B B B B B B B B b a L } P y     
+    y Y / k & < 2 < 4 N B B B B B n b U ..=.>.O./ _ } / I a 9 x m B B B B B B N N B b a K } P y     
+    y Y / k X < 3 2 x m B B B B B m n V U ^ ` ! L L L L j 9 q v N B B B B B N v c M b a L } P y     
+    > Y / k & < 4 4 x B B B B B B B A n x 9 a u u u u u 9 q v A B B B B B B N x x m b a L } P p     
+    p Y / k @ < 5 6 x B B B B B B B B N c q 7 7 7 7 7 7 x v B B B B B B B B N x x v b a L } P y     
+    y L / k @ < 6 6 x B B B B B B B B B B v x x q x x x v N B B B B B B B B N x x n c a L } I y     
+    y Y / k @ 1 6 6 c m B B B B B B B B B N N N m m n m N B N B B B B B B B B x x v b a L } P y     
+    > Y / k @ 1 6 6 x B B B B B B B B B B B N B B B B B B B B B B B B B B B N v c m b a L / P p     
+    y Y / h @ 1 6 5 w N B B B B A B B B B B B B B B B B B B B B B B B B B B B m N N b a L } L y     
+    y P / k @ 1 6 5 c N B B B N v c N B B B B B B B B B B B B B B B B B B B B B B B b a L } P y     
+    y Y / k X 1 6 6 c N B B B m x x N B B B B B B B B B B B B B B B B B B B B B B B b a L } P p     
+    y Y / k @ 1 6 6 x N B B B m x x n B B B B B B B B B B B B B B B B B B B B B B B b i L } L y     
+    > Y / k X 1 6 6 c m B B B m x x m B B B B B B B B B B B B B B B N N B B B B B B b a L } P y     
+    y L / k # 1 6 6 x N B B B m x x m B B B B B B B B B B B B B B m x c N B B B B B c a L / P y     
+    y Y / k @ < 6 6 c N B B B M c c N B B B B B B B B B B B B B B n x x N B B B B B c a L / P y     
+    > Y / k # 1 6 6 x N B B B B N N N N N B B B B B B B B B N N B n w x N B N B B B b a L } P p     
+    y Y / k . - 7 7 8 r t t t t f t t t t f x f t f t t f f r t t e 8 0 t t t f t t 9 u L } P y     
+    y Y / l ; > p i i s i i i s a a a a a a a p a a a a p p i a a a i i i i a a a i p p L } P y     
+    y P | ~ L Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y I Y Y I I Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y P Y / | P p     
+    y L / / / / / / / / / / / / / / / } / } } } } } } } | | | Y / / / } / / / } } } / / } / L y     
+      h l l l K l l K K K K K K K K K K K K K K K K K K K K K K K K K K K K K K K K K K K K h       
+        y y y y y > y > y y > y > > y y > y ; y y y y y ; y y y y y > > y y y y > > > y > y         

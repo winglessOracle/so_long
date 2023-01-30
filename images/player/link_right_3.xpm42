@@ -1,0 +1,294 @@
+!XPM42
+50 50 242 2 c
+   #00000000
+.  #000000FF
+X  #040900FF
+o  #1B0501FF
+O  #021B02FF
++  #1E170FFF
+@  #290202FF
+#  #30110CFF
+$  #022A09FF
+%  #072805FF
+&  #02340DFF
+*  #053706FF
+=  #143806FF
+-  #043F11FF
+;  #35320AFF
+:  #382E22FF
+>  #3D3324FF
+,  #4E0314FF
+<  #6A0B0EFF
+1  #730A19FF
+2  #4F3912FF
+3  #730E22FF
+4  #483C2CFF
+5  #4A3B30FF
+6  #014503FF
+7  #044B16FF
+8  #06591AFF
+9  #184C10FF
+0  #235E14FF
+q  #324E06FF
+w  #006401FF
+e  #09601FFF
+r  #14671CFF
+t  #00761EFF
+y  #266816FF
+u  #2D781CFF
+i  #377B1BFF
+p  #276D0FFF
+a  #395425FF
+s  #0A7625FF
+d  #177B27FF
+f  #106D23FF
+g  #397D34FF
+h  #2A6F27FF
+j  #484802FF
+k  #565715FF
+l  #4D751AFF
+z  #716913FF
+x  #534939FF
+c  #685925FF
+v  #675237FF
+b  #785128FF
+n  #50762FFF
+m  #6F6A2AFF
+M  #67504DFF
+N  #4D6A40FF
+B  #577748FF
+V  #4C7240FF
+C  #696448FF
+Z  #736B51FF
+A  #766163FF
+S  #8B0C16FF
+D  #8E1622FF
+F  #A61B25FF
+G  #BA2020FF
+H  #A91D1DFF
+J  #C42326FF
+K  #D62729FF
+L  #877A1BFF
+P  #84552EFF
+I  #89732EFF
+U  #926B3AFF
+Y  #906E34FF
+T  #A3763BFF
+R  #826A48FF
+E  #846E54FF
+W  #8D7859FF
+Q  #997A57FF
+!  #9E794AFF
+~  #A47744FF
+^  #937C74FF
+/  #019701FF
+(  #108905FF
+)  #2B8E1DFF
+_  #01A601FF
+`  #1EAD11FF
+'  #1D8426FF
+]  #189427FF
+[  #298927FF
+{  #368B23FF
+}  #2E9029FF
+|  #289624FF
+ . #3D9C26FF
+.. #3D9F29FF
+X. #369526FF
+o. #3C8536FF
+O. #3EA129FF
++. #3DA727FF
+@. #3DB426FF
+#. #39BC24FF
+$. #26BE22FF
+%. #568A12FF
+&. #629C1CFF
+*. #558426FF
+=. #429527FF
+-. #50902FFF
+;. #42A529FF
+:. #44A928FF
+>. #48AD2FFF
+,. #6CA924FF
+<. #699815FF
+1. #0AD007FF
+2. #2DDB1CFF
+3. #32D41EFF
+4. #2FC812FF
+5. #04E802FF
+6. #0EFF07FF
+7. #02FF08FF
+8. #0DFF08FF
+9. #00FA06FF
+0. #11FE08FF
+q. #19F90DFF
+w. #1CF311FF
+e. #0DEE0EFF
+r. #27E817FF
+t. #21F112FF
+y. #35F60BFF
+u. #36CC21FF
+i. #39C523FF
+p. #2DCE21FF
+a. #50F70CFF
+s. #72F708FF
+d. #50CE1EFF
+f. #579244FF
+g. #66AA4DFF
+h. #76A364FF
+j. #988C14FF
+k. #93B30FFF
+l. #ABAA02FF
+z. #9B8135FF
+x. #8A8A20FF
+c. #AB893DFF
+v. #B6983DFF
+b. #AB8E2EFF
+n. #91B422FF
+m. #B7A531FF
+M. #A3981FFF
+N. #C6BB16FF
+B. #C4A837FF
+V. #CAB237FF
+C. #C6B92FFF
+Z. #BFD019FF
+A. #9AFB0CFF
+S. #A5FE07FF
+D. #B8F708FF
+F. #9AEE2AFF
+G. #8AD617FF
+H. #D4D011FF
+J. #D1F40AFF
+K. #FDFE01FF
+L. #F8FB09FF
+P. #EDE919FF
+I. #FAF718FF
+U. #ECED09FF
+Y. #D6C92AFF
+T. #DDD22AFF
+R. #DAC736FF
+E. #D6C930FF
+W. #E8DD27FF
+Q. #E9D937FF
+!. #F2DE38FF
+~. #D2EA2EFF
+^. #F3E533FF
+/. #F3EA27FF
+(. #99865DFF
+). #8A8E5DFF
+_. #B68A46FF
+`. #B99545FF
+'. #AE8C52FF
+]. #938C66FF
+[. #AA8C68FF
+{. #B89A77FF
+}. #AD9374FF
+|. #93B376FF
+ X #AFA575FF
+.X #CA9C4BFF
+XX #C39555FF
+oX #CAA746FF
+OX #D2A84BFF
++X #DDBC46FF
+@X #C5AB52FF
+#X #E2BC4BFF
+$X #C19E6FFF
+%X #C4A47BFF
+&X #CEB273FF
+*X #8BC678FF
+=X #90C27EFF
+-X #D9C842FF
+;X #E5C843FF
+:X #EDD240FF
+>X #EEE551FF
+,X #FCF373FF
+<X #EBDA7EFF
+1X #7368B2FF
+2X #7273EDFF
+3X #826B8DFF
+4X #B09C84FF
+5X #B7B488FF
+6X #A992B0FF
+7X #A1B09CFF
+8X #C5AA85FF
+9X #D3B48CFF
+0X #D8BB93FF
+qX #C8AF90FF
+wX #97CC84FF
+eX #B1C68AFF
+rX #B6F69FFF
+tX #ADEC96FF
+yX #BAFAA2FF
+uX #DCC198FF
+iX #E4C69DFF
+pX #EAD48FFF
+aX #DDC9A2FF
+sX #D1C2BBFF
+dX #E8CDA5FF
+fX #ECD4ACFF
+gX #E7D0A9FF
+hX #F1D7ADFF
+jX #F4DEB3FF
+kX #F8DEB4FF
+lX #EDDBBCFF
+zX #C4FAA7FF
+xX #D2FEAEFF
+cX #FDE3B9FF
+vX #EFE9B0FF
+bX #AB95C8FF
+nX #AEAFF4FF
+mX #999AEDFF
+MX #FFECCBFF
+NX #FFF1D5FF
+BX #F3EFF0FF
+VX #E5DCDDFF
+                                                                                                    
+                                                                                                    
+                                                  #.r.q.8.0.8.q.2.:.-.c P U ~ ~ ~                   
+                                                #.u.r.q.8.8.8.q.r.#.,.x.z.b.v.v.v.                  
+                                    ' } O.p.t.t.r.r.w.0.0.0.8.0.e.2.G.Z.H.Y.T.W.Q.R.OXXX~           
+                                  ] ] | @.3.w.0.q.q.0.6.0.8.0.0.7.y.S.P.I.I.L.L./.Q.#X.X`.c.        
+                                +.$.$.p.2.r.q.8.6.6.6.0.0.0.0.8.7.y.F.~.^.I.K.K.I./.^.Q.E.V.v.      
+                      ' d ' [ X.#.2.e.q.w.q.8.8.6.0.0.0.6.0.8.q.y.a.F.-X:X/.I.L.I.I.I.I.I.T.v._.    
+                    [ [ } [ | #.2.r.0.6.6.6.0.0.0.0.0.0.6.8.7.y.s.S.~.~.:X!.!.^.^.!.^.I.L.P.Y.C.z.  
+                  d } X.....@.2.t.q.0.6.0.0.8.0.0.6.6.0.0.8.7.a.S.J.L.I.^.;X#X#X#X#X;X!.I.L.P.T.j.b 
+                h [ } O.;.;.@.3.r.w.0.6.6.6.0.8.0.0.6.0.0.7.7.a.D.L.K.K./.+X.X.X.X.XOXR.!.W.H.N.L b 
+              % y X.O.+.;.;.:.@.i.r.q.8.0.0.0.0.6.0.0.6.6.6.7.a.S.L.K.L./.V._._._._.`.OX#XV.m.j.    
+            9 0 [  .;.;.;.;.;.;.:.3.r.r.r.w.0.8.8.0.8.8.7.y.s.A.J.L.K.P.R.OXXX'.'.! ~ _.OXXXP       
+          = y {  .O.;.;.;.;.;.;.:.#.i.i.u.2.w.0.8.8.8.7.7.a.S.J.K.L.P.E.@X$X8X%X$XQ v P             
+        . = u  .;.;.;.;.;.;.;.;.;.;.:.:.+.u.r.t.t.t.w.t.e.s.D.K.K.L.Q.oX%X9X0X0X8XW 4               
+        . = u  .;.;.;.;.;.:.;.;.;.;.;.;.>.@.i.u.u.u.u.u.p.d.D.K.K.L.>X&X9XdXfXiX8XW :               
+        = 9 u ..;.O.O.O.O.O...=.=.O.O.O.O.O.+.+.+.+.+.+.O.,.Y.P.K.I.>XpXiXiXaX0X4XE :               
+      = y { X.;...} } } [ u u [ } } } } } ] ' |  .| } { n <.n.E.P./.,XvXiX8X X X(.b +               
+    O 9 u =.;...} [ d d r 9 9 e d d ' d ' o.f.f.>.g.-.*.c b U v.Y.^.,XvXaX4XA A M M 5 4             
+  & 7 r u } } } d f 8 8 7 - $ 7 e s s s o.).|.5XuX=X X].Z P T XXV.R.<XvXlXsX6X1X1X3XQ Z             
+. & e f d d [ d r 7 % $ &     $ - e s t g |.aXvXjXfX0X%XQ Y c.OXB.`.9XhXNXBXVXmX2X3X8XQ 5           
+. - 8 e e e e e 7 $ . .         $ 7 e e n ].uXhXcXkXkXuX[.Y m.;XB.'.%XfXNXBXBXmX2XbXqXQ 5 .         
+    & & & & & & &                 & & $ : v [.9XhXcXkXdX{.T N.P.H.Y {.hXNXBXBXnX2XbXqXQ 5 X         
+      . . . . .                     . . . 2 P }.0XdXdXuX$X_.H.U.H.z.{.hXNXBXVXnXmX6X4XE 5           
+                                      . o ; 2 Z [.$X%X$X.XOXW.I.H.z.}.fXMXMXMXsXqX3XZ v             
+                                        j.L P I U U U T oX;XQ.W.C.'.{.gXkXkXgX0X}.E 4               
+                                        H.H.m.~ b 2 2 I C.W.H.m.'.%X9XiXiXiX9X}.E v                 
+                                        H.Y.oX_.m $ X L H.W.N.I (.{.%X8X&X8X{.Z :                   
+                                        l.M.Y I l 7 $ z B.R.b.c C ).).).).W Z v                     
+                                        q 2 ; q h f 8 c c..XY k r g =.g n a a                       
+                                          . . 7 d } ) l m Y m { ' ) ] | ] u p 6                     
+                                            O 0 {  .O.-.n m f.>.>.=. .O.O.O.=.l k                   
+                                            X r { ;.{ -.h.h.*X*Xg...} ..;.;.,.k.l.j.                
+                                            % y =.{ y n wXtXrXtX*XV p X.;.;.n.H.J.l.j               
+                                          9 p l n l q B wXyXyXyXwXN q l *.*.n.H.U.l.j               
+                                        % y { -.m k ; B wXyXzXyX|.n ; c m m M.J.U.l.j               
+                                        % y  .:.&.%.q B wXrXyXyXwXN q <.&.&.k.H.J.k.q               
+                                        % y  .>.3.4.( B wXyXyXyX|.N ( 4.3.y.a.s.s.<.q               
+                                        % y { 4.t.5./ B eXxXxXzXwXN / 5.0.0.q.q.1.( 6               
+                                          ; y ` 5.5./ Z eXvXvXvX5XB _ 5.0.6.5.1./ w %               
+                                            * / 1.1./ Z qXjXcXjXqXZ / 1.e.5.1./ * . X               
+                                              ( / / w C 4XdXcXcXqXC w / _ _ / w . .                 
+                                                6 6 O x [.9XdXgX5XC O = q j 2 ; X                   
+                                                  . . 4 Z (.4X4X^ 5 @ , 1 S S < @                   
+                                                    . + : 5 x x > # , 3 F G G S @                   
+                                                      . . . . . @ , D F J K J D @                   
+                                                        . . . o # 3 F G K K J S @                   
+                                                          . . @ , 3 D F G G H S @                   
+                                                                # # , 1 < < <                       
+                                                                  . . . X . .                       
