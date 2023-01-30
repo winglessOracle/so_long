@@ -1,4 +1,4 @@
-# so_long | CODAM Amsterdam (part of 42 network)
+# so_long | CODAM
 
 *And thanks for all the fish! 🐟*
 
