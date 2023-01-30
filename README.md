@@ -63,7 +63,7 @@ The small game has a few extras that were not part of the assignment but that I 
 ## Gameplay
 
 Here are a few sample gameplays clips:
-[test](/home/carlo/Desktop/link to Projects./so_long/example.gif
+![test](https://github.com/winglessOracle/so_long/blob/main/example.gif)
 
 ## Installing the MLX library and required recourses
 Please read the documentation for this in the [MLX42 repository](https://github.com/codam-coding-college/MLX42/blob/master/docs/Basics.md). It is self explenatory.
