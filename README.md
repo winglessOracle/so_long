@@ -3,12 +3,12 @@
 *And thanks for all the fish! 🐟*
 
 ### Table of Contents
-
 * [Introduction](#introduction)
 * [How it Works](#how-it-works)
 * [Extras](#extras)
-* [Gameplay](#gameplay)
 * [Learnings](#learnings)
+
+![test](https://github.com/winglessOracle/so_long/blob/main/example.gif)
 
 ## Introduction
 so_long is an assignment for CODAM in which we are tasked to create a simple 2D game to get familiar with a graphics library. At CODAM we have access to the the MLX42 library which can be found at [here: MLX42](https://github.com/codam-coding-college/MLX42/blob/master/docs/Basics.md). 
@@ -58,11 +58,6 @@ The small game has a few extras that were not part of the assignment but that I 
 - End screens after death of finishing the game.
 - Compilation support for both `linux` and `MacOS`
 -Added maps as levels that you progress through.
-
-## Gameplay
-This is what the game looks like
-
-![test](https://github.com/winglessOracle/so_long/blob/main/example.gif)
 
 ## Installing the MLX library and required recourses
 Please read the documentation for this in the [MLX42 repository](https://github.com/codam-coding-college/MLX42/blob/master/docs/Basics.md). It is self explenatory.
